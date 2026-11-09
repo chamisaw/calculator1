@@ -12,9 +12,9 @@ if (operator === '+') {
 } else if (operator === '-') {
   // TODO: Trainee 1
 } else if (operator === '*') {
-  // TODO: Trainee 2
+  result = a * b
 } else if (operator === '/') {
-  // TODO: Trainee 2
+  result = a / b
 } else {
   console.log('Unknown operator');
 }
