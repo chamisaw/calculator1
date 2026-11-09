@@ -8,9 +8,9 @@ const operator = prompt('Enter an operator (+, -, *, /): ');
 let result;
 
 if (operator === '+') {
-  // TODO: Trainee 1
+   result = a + b;
 } else if (operator === '-') {
-  // TODO: Trainee 1
+   result = a - b; 
 } else if (operator === '*') {
   // TODO: Trainee 2
 } else if (operator === '/') {
